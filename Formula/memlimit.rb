@@ -1,8 +1,8 @@
 class Memlimit < Formula
   desc "Zero-dependency memory limiter using phys_footprint (macOS) and PSS (Linux)"
   homepage "https://github.com/rmk40/memlimit"
-  url "https://github.com/rmk40/memlimit/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "5e8e0b39091c80c5e04aed46d5ce9c0ba2e76b4c98cd29de4b1206d00f16413a"
+  url "https://github.com/rmk40/memlimit/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "3bf12edbce25c6e2ecbc71ea1e87197102417dd52d44d2f757ce64c149444f37"
   license "MIT"
 
   def install
